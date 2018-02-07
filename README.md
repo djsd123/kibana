@@ -1,2 +1,4 @@
 # kibana
-Kibana container with plugin(s)
+Kibana container with plugin(s):
+
+* LogTrail (pre-configured for Kubernetes)
